@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "yaseen";
+    src: url("./AirtravelerspersonaluseBdit-gxgyE.otf");
+}
+h1{
+    text-align: center;
+    background-size: cover;
+    font-family: "yaseen";
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+
+}
+.addBtn{
+    background-color: #008000;
+    color: #fff;
+    margin: auto 10px;
+    margin-left: 30px;
+    padding: 4px;
+    border: none;
+    border-radius: 5px;
+}
+.dltAllBtn{
+    background-color :#ff0000;
+    color: #fff;
+    /* margin: auto 10px; */
+    padding: 4px;
+    border: none;
+    border-radius: 5px;
+}
+#myListCon{
+    margin-top: 50px;
+    margin-left: 18%;
+}
+#myList{
+    list-style: none ;
+    text-align: center;
+    font-family: Geneva, Tahoma, sans-serif;
+}
+.items{
+    border-bottom: 1px solid #000;
+    width: 50%;
+    padding: 5px;
+}
